@@ -14,11 +14,20 @@
 
 ###
 
+<h2 align="left"></h2>
+
+###
+
 <h2 align="center">About me</h2>
 
 ###
 
 <p align="center">I love contributing to the tech community, continuously learn new things daily, and sharing knowledge to promote innovation<br><br>Currently , I'm learning Generative AI and strengthening my skills machine learning and  Devops technologies...</p>
+
+###
+
+<div align="left">
+</div>
 
 ###
 
@@ -62,8 +71,7 @@
 
 ###
 
-<div align="left">
-</div>
+<p align="left"></p>
 
 ###
 
@@ -89,6 +97,10 @@
 
 ###
 
+<p align="left"></p>
+
+###
+
 <h2 align="center">Profile Views</h2>
 
 ###
@@ -96,6 +108,10 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/rabelmervin/count.svg?"  />
 </div>
+
+###
+
+<p align="left"></p>
 
 ###
 
@@ -107,9 +123,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rabelmervin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=rabelmervin&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
-
-###
-
-<h2 align="left"></h2>
 
 ###
