@@ -71,6 +71,10 @@
 
 ###
 
+<p align="center">I'm always eager to connect with fellow developers, collaborators, and enthusiasts in the tech community. Whether you have questions, ideas, or just want to chat about technology, feel free to reach out. You can find me on</p>
+
+###
+
 <div align="center">
   <a href="linkedin.com/in/rabelmervin-571764274" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -82,10 +86,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<p align="center">I'm always eager to connect with fellow developers, collaborators, and enthusiasts in the tech community. Whether you have questions, ideas, or just want to chat about technology, feel free to reach out. You can find me on</p>
 
 ###
 
