@@ -110,14 +110,6 @@
 
 ###
 
-<h2 align="center">Contributions</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/rabelmervin/rabelmervin/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left"></h2>
 
 ###
