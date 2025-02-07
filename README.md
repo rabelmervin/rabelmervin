@@ -14,11 +14,20 @@
 
 ###
 
+<h2 align="left"></h2>
+
+###
+
 <h2 align="center">About me</h2>
 
 ###
 
-<p align="center">I love contributing to the tech community, continuously learn new things daily, and sharing knowledge to promote innovation<br><br>Currently , I'm learning Generative AI and strengthening my skills machine learning and Devops technologies...</p>
+<p align="center">I love contributing to the tech community, continuously learn new things daily, and sharing knowledge to promote innovation<br><br>Currently , I'm learning Generative AI and strengthening my skills machine learning and  Devops technologies...</p>
+
+###
+
+<div align="left">
+</div>
 
 ###
 
@@ -62,6 +71,10 @@
 
 ###
 
+<p align="left"></p>
+
+###
+
 <h2 align="center">Let's connect</h2>
 
 ###
@@ -71,16 +84,20 @@
 ###
 
 <div align="center">
-  <a href="https://linkedin.com/in/rabelmervin-571764274" target="_blank">
+  <a href="linkedin.com/in/rabelmervin-571764274" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/Rabel_Mervin" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="mailto:rabelmervin@gmail.com" target="_blank">
+  <a href="rabelmervin@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<p align="left"></p>
 
 ###
 
@@ -94,6 +111,10 @@
 
 ###
 
+<p align="left"></p>
+
+###
+
 <h2 align="center">My Numbers</h2>
 
 ###
@@ -103,3 +124,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rabelmervin&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
+###
