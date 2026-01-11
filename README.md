@@ -119,15 +119,6 @@ Refactored stdin file handling into score-go, improving modularity and enabling 
 
 ---
 
-## 📄 View My Resume
-
-<div align="center">
-<a href="https://drive.google.com/file/d/1_O-ktCuWt1IPFWpRKuJ8umdj5j5leZtD/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/Download-Resume-FF5722?style=for-the-badge&logo=readme&logoColor=white" alt="Download Resume">
-</a>
-</div>
-
----
 
 ## 🤝 Connect with me 
 
